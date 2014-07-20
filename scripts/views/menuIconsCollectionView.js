@@ -1,0 +1,1 @@
+//this collection view shows the icons in the menu of the web app
