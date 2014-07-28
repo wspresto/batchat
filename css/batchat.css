@@ -1,0 +1,30 @@
+.map{
+
+}
+.menu-bar { /*candy bar */
+    position: relative;
+    width: 10%;
+    height: 100%;
+    float: left;
+    z-index: 1;
+}
+.map-box {
+    position: relative;
+    float: right;
+    height: 100%;
+    width: 90%;
+    z-index: -1;
+}
+img {
+    position: relative;
+}
+.icon {
+    height: 100%;
+    width: 100%;
+}
+.menu-icon {
+    border-style: groove;
+    border-width: 10px;
+
+    width: 100%;
+}

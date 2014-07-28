@@ -1,1 +1,1 @@
-//this collection view shows the icons overlayed the map in the web app
+//this collection view shows the icons overlayed the map in the web app and the button at the bottom
